@@ -1,4 +1,4 @@
-update=Sat 30 May 2020 03:28:39 PM CEST
+update=Sat 30 May 2020 03:33:58 PM CEST
 version=1
 last_client=kicad
 [general]
@@ -40,6 +40,8 @@ ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
 [sheetnames]
 1=9e7e8ee8-cddc-4c75-9cfb-241b66c3d788:
+[ModEditFrame]
+version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
