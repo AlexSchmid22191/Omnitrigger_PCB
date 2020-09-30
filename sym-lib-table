@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Omni_Trigger-rescue)(type Legacy)(uri ${KIPRJMOD}/Omni_Trigger-rescue.lib)(options "")(descr ""))
+)

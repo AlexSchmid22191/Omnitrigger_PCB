@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L arduino:Arduino_Nano_Socket XA1
+L Omni_Trigger-rescue:Arduino_Nano_Socket-arduino XA1
 U 1 1 5F628F8B
 P 4200 3300
 F 0 "XA1" H 4200 4537 60  0000 C CNN

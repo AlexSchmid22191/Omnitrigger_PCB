@@ -1,4 +1,4 @@
-update=09/17/20 02:05:14
+update=09/30/20 11:21:09
 version=1
 last_client=kicad
 [general]
@@ -260,7 +260,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.2
+Clearance=0.15
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
@@ -271,7 +271,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=Signal
-Clearance=0.2
+Clearance=0.65
 TrackWidth=1
 ViaDiameter=0.8
 ViaDrill=0.4
